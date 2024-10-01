@@ -1,0 +1,22 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "meupet_7af31ba9"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "meupet",
+            "classPaths": [
+                "libs/sqlite-jdbc-3.46.1.3.jar"
+            ]
+        }
+    ]
+}
